@@ -1,0 +1,24 @@
+time,cpu usage(%),memory usage(%),process time,process name
+09:16:18,46.9,21.6,17,bzip2_base.gcc4
+09:16:19,50.0,21.7,18,bzip2_base.gcc4
+09:16:21,50.0,21.6,19,bzip2_base.gcc4
+09:16:22,50.5,21.6,20,bzip2_base.gcc4
+09:16:23,50.0,21.6,21,bzip2_base.gcc4
+09:16:24,50.0,21.6,22,bzip2_base.gcc4
+09:16:25,50.0,21.6,23,bzip2_base.gcc4
+09:16:26,50.0,21.6,24,bzip2_base.gcc4
+09:16:27,49.5,21.6,25,bzip2_base.gcc4
+09:16:28,50.5,21.7,26,bzip2_base.gcc4
+09:16:29,49.5,21.7,27,bzip2_base.gcc4
+09:16:30,50.0,21.7,28,bzip2_base.gcc4
+09:16:31,49.5,21.7,29,bzip2_base.gcc4
+09:16:32,50.5,21.7,30,bzip2_base.gcc4
+09:16:33,50.0,21.7,31,bzip2_base.gcc4
+09:16:34,49.5,21.7,32,bzip2_base.gcc4
+09:16:35,50.0,21.7,33,bzip2_base.gcc4
+09:16:36,50.0,21.7,34,bzip2_base.gcc4
+09:16:37,50.5,21.7,35,bzip2_base.gcc4
+09:16:38,50.0,21.7,36,bzip2_base.gcc4
+09:16:39,50.0,21.7,37,bzip2_base.gcc4
+09:16:40,49.0,21.7,38,bzip2_base.gcc4
+09:16:41,50.0,21.7,39,bzip2_base.gcc4
